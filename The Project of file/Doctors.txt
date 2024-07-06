@@ -1,0 +1,11 @@
+11401 D/Ahmed Ali EL-Minia Male 01002858701 Administrative|32
+11402 D/Mai Ahmed Cairo Female 01022345963 Medical|28
+11403 D/Sarah Mohamed Alexaderia Female 012301542997 Outpatient clinics|36
+11404 D/Sheref Noor Mansora Male 015330405557 Hypnosis|50
+11405 D/khalid Shady Cairo Male 011474258966	 Emergency|40
+11406 D/Mostafa Sayeed Mansora Male 01026026108 Intensive care|43
+11407 D/Ahmed Salah EL-Minia Male 01144364554 maternity section|33
+11408 D/Fady Walied Mansora Male 012357159654 Critical operations|31
+11409 D/Fatma ahmed Qena female 015221346597 natural therapy|25
+11410 D/samar Nadi Giza female 0104178249365 laboratory|24
+11411 D/Nadi Samir Fayoum Nale 0103256479881 the pharmacy|45

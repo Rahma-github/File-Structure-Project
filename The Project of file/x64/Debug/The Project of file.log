@@ -1,0 +1,18 @@
+﻿  The Project of file.cpp
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(65,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(70,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(74,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(78,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(82,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(148,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(153,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(157,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(161,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(165,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(169,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(174,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(178,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(229,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(233,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Win8.1\source\repos\The Project of file\The Project of file\The Project of file.cpp(237,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  The Project of file.vcxproj -> C:\Users\Win8.1\source\repos\The Project of file\x64\Debug\The Project of file.exe

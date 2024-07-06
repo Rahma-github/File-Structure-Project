@@ -1,0 +1,28 @@
+11501* Administrative departments 9:00 am TO 6:00 pm D/Ahmed Ali|100
+11502* Medical departments of the hospital 9:20 am To 10:20 pm D/Ali Ahmed|80
+11503* Visits of saudi consultant doctors 11:30 am To 5:30 pm D/Shreaf|100
+11504* The main reception and its branches 8:15 am To 11:15 pm D/Ahmed zaki|120
+11505* Outpatient clinics 12:30 pm To 1:30 am D/Ahmed Salah|250
+11506* Hypnosis 9:00 am To 3:00 pm D/Rahma Ali|100
+11507* Emergency and Pharmacy 10:20 am To 4:20 pm D/Mostafa|300
+11508*	Nurseries 8:00 am To 8:00 pm D/Mohamed Alaa|320
+11509* Intensive care 8:45 am To 10:45 pm D/Alaa Ali|200
+11510* maternity section 9:35 am To 11:35 pm D/Sohaila|230
+11511* Critical operations 12:00 am To 11:00 pm D/Shaker|360
+11512* natural therapy 10:30 am To 10:30 pm D/Shady|210
+11513* Health Rehabilitation Center 8:30 am To 11:30 pm D/Fady|100
+11514* laboratory 1:00 pm To 1:00 am D/noor |150
+11515* X_ray place 7:45 am to 10:45 pm D/Ahmed alaa|180
+11516* the pharmacy 7:00 am To 11:00 pm D/magad Ali|170
+11517* Central sterilization 9:00 am  To 11:00 pm D/Ahmed yassen|160
+11518* Feeder 8:30 am To 3:30 pm D/Ahmed Ali|100
+11519* Fighting the infection 10:00 am To 8:00 pm D/yassen Ali|120
+11520* Public relations section 8:00 am To 11:00 pm D/Ahmed shaker120
+11521* Department of health Media and Marketing 9:10 am To 10:10 pm D/mohamed saad|154
+11522* Quality Management 9:00 am To 6:30 pm D/said|190  
+11523* Systems and Information 8:45 am To 11:45 pm D/mazen Ali|100
+11524* Security, Eafety and firefighting 8:00 am To 7:00 pm D/rawan magady|100
+11525* Non-medical maintenance 11:20 am To 11:20 pm D/maoaz Ali|100
+11526* medical records 12:00 pm To 11:45 pm D/Ahmed Aldocsh|100
+11527* medical maintenance 8:30 To 6:00 pm D/Ahmed  ramadan100
+

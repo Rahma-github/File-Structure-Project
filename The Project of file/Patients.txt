@@ -1,0 +1,13 @@
+11245 khalid EL-Minia Male 01002858701 cancer A+ 8/5/2021 D/Ahmed|32|22123|30000
+11246 Monier EL-Minia Male 01023546879	 Covide-19 B	 18/6/2021 D/Ahmed Salah|32|10000
+11247 Amal Cairo Female 01053546129	 Gland B+	 13/9/2020 D/Ahmed Ali|39|12000
+11248 Sohair EL-Gizaa Female 01123546879	 Breast AB	 18/2/2022 D/Sarah Mohamed|28|15000
+11249 Amir EL-Minia Male 01203546888	 shin Cancer O	 28/3/2021 D/Mostafa Sayeed|36|8000
+11250 Mohaned EL-Sharqia Male 01546546879	 Covide-19 B+	 18/6/2021 D/Ahmed Salah|32|10000
+11251 Fwzy EL-Minia Male 01111546879	 Herpes A	 22/9/2020 D/khalid Shady|32|6000
+11252 Alaa Cairo Male 01175046844	 Hepatitis_B A+	 13/4/2019 D/Ahmed Salah|32|10000
+11253 Sameh EL-Giza Male 01017795436	  Hepatitis_C B+	 22/6/2021 D/Fatma ahmed|29|30000
+11254 Sherif EL-Dakahliya Male 01084356879	 Covide-19 B	 3/7/2021 D/Ahmed Salah|32|9000
+11255 Shokry EL-Minia Male 01073452879	 AIDS AB	 16/2/2021 D/Nadi Samir|40|17000
+11256 Samy Luxor Male 01042897524	 Hemorrhoids B+	 12/4/2021 D/Mostafa Sayeed|50|20000
+11257 Sawsn EL-Minia female 01014568712	 Prostate B	 18/6/2021 D/Ahmed Zaki|42|35000
